@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">Krushimitra</string>
+    <string name="profile">PROFILE</string>
+    <string name="full_name">Full name :</string>
+    <string name="city">City :</string>
+    <string name="father_name">Father Name :</string>
+    <string name="mother_name">Mother Name :</string>
+    <string name="pin_code">Pin-Code :</string>
+    <string name="address">Address :</string>
+    <string name="mobile_no">Mobile No :</string>
+    <string name="date_of_birth">Date-of-birth :</string>
+    <string name="str1">Loan for Animal Husbandry</string>
+    <string name="str2">Animal husbandry loans are generally offered for purchase or creation of assets and infrastructure related to poultry, sericulture, piggery, dairy development, fisheries development and apiculture etc. The loans are usually secured against mortgage of land, hypothecation of acquired assets or third party guarantee.</string>
+    <string name="str3">Major Banks offering Animal Husbandry and related Loans</string>
+    <string name="str4">Punjab National Bank, State Bank of India, Bank of Baroda, Federal Bank, HDFC Bank and several other banks offer animal husbandry and agriculture loans.</string>
+    <string name="str5">Features of Animal Husbandry Loan</string>
+    <string name="str6">1. Loans are available for up to 100% of cost of asset or project cost.\n
+        2. Typically longer repayment tenures. Minimal paperwork and quick loan processing.\n
+        3. Flexible repayment options that include cheques, ECS, internet banking, standing instructions and automated loan recovery, among others.\n
+        4. Loans are generally disbursed at low interest rates.\n</string>
+    <string name="str7">Documents required for Animal Husbandry Loan</string>
+    <string name="str8">There are minimal documentation requirements for applying for an animal husbandry loan. \n
+        1. One identity proof among PAN card, passport, driving license, voters ID. \n
+        2. One address proof among passport, lease agreement, sales tax certificate, electricity or telephone bill, ration card etc.\n
+        3. Quotation for the acquiring assets may be asked for by the lender.\n</string>
+    <string name="str9">Types of Animal Husbandry techniques covered under loans</string>
+    <string name="str10">These loans can be used for a variety of purposes such as dairy development programmes, milk production activities such as buying and maintenance of milch animals, rearing of female calves, cattle breeding through artificial insemination, milk house constructions, milk processing facility financing, pasture development financing and lots more in the dairy side of financing. The loans also cover other avenues of animal husbandry such as fishery, piggery, poultry, apiculture, sericulture and many other techniques.</string>
+    <string name="str11">Choosing an Animal Husbandry Loan</string>
+    <string name="str12">Each bank has its own criteria for offering animal husbandry loans and you are advised to contact banks individually to know what their loan product actually covers. Most of the public sector banks are involved in some form of agriculture and agriculture allied loans, so you should look at your requirements and make a choice accordingly. There are also some subsidies available from the government for people of backward categories to acquire assets related to animal husbandry. As such, you should also enquire about the related benefits of an animal husbandry scheme while applying for a loan.</string>
+    <string name="kcc1">Know All About Kisan Credit Card</string>
+    <string name="kcc2">The Kisan Credit Card (KCC) scheme was launched in 1998 with the aim of providing short-term formal credit to farmers. Owner cultivators as well as tenant farmers can avail loans to meet their agricultural needs under this scheme at attractive rates of interest. The government has also simplified the application process to increase interest among farmers. Repayment is also simplified and dependent on the harvesting season, reducing the farmers’ debt burden</string>
+    <string name="kcc3">Key Features of Kisan Credit Card</string>
+    <string name="kcc4">The basic features associated with the card are mentioned below: \n
+        1. Credit to meet the financial requirements of agricultural and other allied activities.\n
+        2. Ancillary credit for crop production and other contingencies.\n
+        3. Investment credit for agricultural requirements such as dairy animals, pump sets etc.\n
+        4. Produce marketing loans. Post-harvest expenses.\n
+        5. Insurance coverage for Kisan Credit Card holders, including asset insurance and personal accident insurance scheme (PAIS).\n</string>
+    <string name="kcc5">Salient Features of Kisan Credit Card Loan Scheme:</string>
+    <string name="kcc6">Given below are some of the ancillary features available under the Kisan Credit Card Scheme as mandated by the RBI:\n
+        1. All farmers who are eligible for the Kisan Credit Card will be issued a smart card cum debit card in addition to the Kisan Credit Card.\n
+        2. The facility of revolving credit is available for any amount of withdrawals and repayments made within the credit limit. \n
+        3. However, instalments of the amount withdrawn have to be repaid within 12 months.\n
+        4. Based on the annual review, banks will determine the validity of the existing credit card.\n
+        5. Credit limits can be increased at the issuing bank’s discretion to accommodate for changes in cropping pattern, increase in operating costs, etc. as an incentive for good record on credit card usage.\n
+        6. Conversion/rescheduling of loans also permissible in case of damage to crops due to natural calamities.\n</string>
+    <string name="kcc7">Benefits of Kisan Credit Cards</string>
+    <string name="kcc8">1. Flexible repayment options and hassle-free disbursement procedure.\n
+        2. Single credit facility/ term loan for all agricultural and ancillary requirements.\n
+        3. Assistance in the purchase of fertilizers, seeds, etc. as well as in availing cash discounts from merchants/ dealers.\n
+        4. Credit is available for a period of up to 3 years and repayment can be made once the harvest season in over. \n
+        5. Minimal documentation and maximum flexibility offered for withdrawal of the required funds from the issuing bank.\n
+        6. Funds can be withdrawn from any of the bank’s branches across the country.\n</string>
+    <string name="kcc9">Who is eligible for a Kisan Credit Card Loan Scheme?</string>
+    <string name="kcc10">You are eligible for a Kisan Credit Card if you:\n
+        1. Are an individual farmer who is an owner-cultivator.\n
+        2. Belong to a group and are joint borrowers. The group has to be owner-cultivators.\n
+        3. Are a sharecropper, tenant farmer, or an oral lessee. \n
+        4. Are a self-help group (SHG) or joint liability group (JLG) of sharecroppers, farmers, tenant farmers, etc.\n</string>
+    <string name="kcc11">Documents Required To Apply For Kisan Credit Cards</string>
+    <string name="kcc12">As per the Reserve Bank of India (RBI) guidelines, documents required to process a Kisan Credit Card application should be as per the issuing bank’s internal guidelines. Hence, each bank has a different set of required documents.\n
+        Listed below are the basic documents required when applying for the Kisan Credit Card: \n
+        1. Duly filled-in and signed-in application form.\n
+        2. Copy of identity proof such as Aadhaar card, PAN card, Voter ID, driving license, etc.\n
+        3. Copy of address proof document such as Aadhaar card, PAN card, Voter ID, driving license.\n
+        4. The proof should have the applicant’s current address to become valid.\n
+        5. Land documents. \n
+        6. A passport size photograph of the applicant.\n
+        7. Other documents such as security PDC as requested by the issuing bank.</string>
+    <string name="kcc13">Kisan Credit Cards offered by Different Banks</string>
+    <string name="kcc14">The Kisan Credit Card scheme is a Government of India scheme which provides farmers with timely access to credit. As such, the scheme is offered by all public sector banks.\n
+        1. National Payments Corporation of India (NPCI)\n
+        2. National Bank for Agriculture and Rural Development (NABARD)\n
+        3. Cooperative banks State Bank of India (SBI) \n
+        4. Industrial Development Bank of India (IDBI) \n
+        These are just a few banks which offer Kisan Credit Cards. You can apply for one at any public sector bank.</string>
+    <string name="al1">Agriculture Loan</string>
+    <string name="al2">Agricultural loans are any loans that are availed by a farmer to fund seasonal agricultural operations or related activities like animal farming, pisci-culture or purchase of land or agricultural tools. While seasonal agricultural operations routine activities like include preparing and ploughing land for sowing, weeding, and transplantation where necessary, buying inputs such as fertilizers, seeds, insecticides etc. and engaging labour for cultivating and harvesting the crops.\n
+        In addition purchasing of land, or purchasing of agricultural tools, storage of produce and transport also are included under purview of agricultural loans.\n
+        The agricultural policy of the Government of India also envisages substantial credit flow to increase agricultural production and productivity. Banks provide agricultural term loans to farmers for investment purposes and Short Term Loans for production purposes. There is a need to finance farmers for purchasing land not only to expand their activities but also to make existing small and marginal units economically viable, diversify their present activities and to bring fallow lands and waste lands under cultivation.\n
+        In India, agriculture has been marked as priority sector because farmers constitute a large part of the population. As such agriculture sector qualifies for priority sector lending at lower interest rates by banks. In India, most of the commercial banks, co-op societies and rural banks provide agricultural loans to farmers.\n</string>
+    <string name="al3">Agricultural Loan Interest Rate</string>
+    <string name="al4">The interest rates charged for agricultural loans can vary significantly based on the type of loan scheme that is opted for and your choice of lender. That said, the interest rates for agriculture loans start at about 8.80% p.a. In addition to the interest rate, agriculture loan borrowers will also have to pay a one-time processing fee which can range from nil to up to 2% of the loan amount, if not more.</string>
+    <string name="al5">Why Should You Take an Agriculture Loan</string>
+    <string name="al6">A number of lenders today, offer a range of agriculture loans for the benefit of their customers. The various purposes for which you can avail an agriculture loan are as follows: \n
+        1. Purchase of farming machinery and equipment \n
+        2. Purchase of land \n
+        3. Horticulture projects \n
+        4. Purchase of vehicles \n
+        5. Establishment of dairy units \n
+        6. Establishment of small poultry units \n
+        7. For working capital needs \n
+        8. For seasonal requirements \n
+        9. For fish farming</string>
+    <string name="al7">Features and Benefits of Agriculture Loans</string>
+    <string name="al8">The key features and benefits of agriculture loans are as follows: \n
+        1. Simplified Documentation: \n
+        When borrowing an agriculture loan, applicants will only have to submit a few documents such as a valid photo identity proof, proof of residence, etc. These documents can be submitted along with one’s application form. \n
+        2. Quick Processing: \n
+        Lenders will verify your application form and the documents submitted by you, after which your loan application will be approved. The loan amount will be disbursed to your account soon after this.\n
+        3. Competitive Interest Rate Charged:\n
+        Banks and financial institutions that offer agriculture loans charge a competitive rate of interest that start as low as 8.80% p.a. Borrowing a loan with such a low interest rate can help you keep the overall cost of your loan down.\n
+        4. Loan Repayment Tenure Options: \n
+        A number of agriculture loan providers offer both short-term and long-term credit solutions. Thus, based on your financial requirements and repayment capacity, you can opt for a loan product that offers a suitable product term.\n
+        5. No Hidden Charges: \n
+        When you borrow an agriculture loan, you may need to pay other charges such as the processing fee, pre-payment charges, etc. However, lenders will usually inform prospective borrowers about the various charges that they may have to pay for before the loan is borrowed.\n</string>
+    <string name="al9">Documents Required for Agriculture Loans</string>
+    <string name="al10">The documents that you may be asked to submit at the time of applying for an agriculture loan are as follows: \n
+        1. Duly-filled application form \n
+        2. KYC documents \n
+        3. Land/asset documents\n
+        4. Security PDC \n
+        5. Any other document mandated by the lender\n</string>
+    <string name="al11">Eligibility Criteria to Borrow an Agriculture Loan</string>
+    <string name="al12">The eligibility criteria to borrow an agriculture loan will vary based on the type of loan scheme that you opt for. The generalised eligibility criteria, however, are as follows: \n
+        1. The applicant will have to be between the ages of 18 years and 70 years. \n
+        2. The individuals will have to own the necessary assets, which will need to be hypothecated to the bank once the loan is borrowed. \n
+        3. Loans can be applied on an individual basis or joint basis, based on the lender’s terms and conditions.\n
+    </string>
+    <string name="abtus">\n A mobile app that contains all the data about the farmer and acts as a meditator between Banks and farmers and ensure that farmers are able to get loan easily.
+    The app also gives information about various loan schemes for farmers. </string>
+    <string name="abt">Smart Loan Assistant</string>
+</resources>
